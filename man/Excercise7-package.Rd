@@ -16,8 +16,7 @@ Version: \tab 1.0\cr
 Date: \tab 2014-12-28\cr
 License: \tab GPL-2\cr
 }
-~~ An overview of how to use the package, including the most important ~~
-~~ functions ~~
+
 }
 \author{
 Katie Romanenko
@@ -25,7 +24,7 @@ Katie Romanenko
 Maintainer: Katie Romanenko<katie.romanenko@gmail.com>
 }
 \references{
-http://smaa.fi/static/erimprog/2014/erimprog-2014-ex7.pdf
+\url{http://smaa.fi/static/erimprog/2014/erimprog-2014-ex7.pdf}
 }
 \keyword{ Excercise7 }
 \keyword{ AddTwo }
